@@ -1,0 +1,2 @@
+const elementImg = document.querySelector('.header__elements-wrapper .image img');
+elementImg.src = 'https://media.getsitecontrol.com/prod2/images/8132/d77bf7ae8beb76c132da7a46fb85d338_172161144.png';
